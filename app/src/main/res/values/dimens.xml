@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_margin_max">20dp</dimen>
+    <dimen name="layout_margin_min">16dp</dimen>
+    <dimen name="layout_padding_max">10dp</dimen>
+    <dimen name="layout_padding_min">5dp</dimen>
+
+    <dimen name="text_view_title_max">30sp</dimen>
+    <dimen name="text_view_title_min">24sp</dimen>
+
+    <dimen name="text_view_body_max">18sp</dimen>
+    <dimen name="text_view_body_min">14sp</dimen>
+
+    <dimen name="card_view_corners_max">15dp</dimen>
+    <dimen name="card_view_corners_min">8dp</dimen>
+
+    <dimen name="card_view_elevation_min">6dp</dimen>
+    <dimen name="card_view_elevation_max">12dp</dimen>
+
+    <dimen name="image_view_close">40dp</dimen>
+</resources>

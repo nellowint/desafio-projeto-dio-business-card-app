@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="text_view_title">Business Card</string>
+    <string name="floating_button_text">Add Card</string>
+
+    <string name="text_view_business_card">New Business Card</string>
+    <string name="text_view_name">Name</string>
+    <string name="text_view_phone">Phone</string>
+    <string name="text_view_email">Email</string>
+    <string name="text_view_company">Company</string>
+    <string name="button_confirm">Confirm</string>
+    <string name="text_view_color">Color: ex(#FFFFFF)</string>
+    <string name="text_success">Business Card saved successfully!</string>
+
+    <string name="image_share">Image Share</string>
+    <string name="image_share_success">Image Share successfully!</string>
+</resources>
